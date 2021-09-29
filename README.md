@@ -8,8 +8,8 @@ A website for you to keep all your favorite restaurants with restaurant's name, 
 *  Update: you may update the info whenever you want by clicking the edit button
 *  Delete: you can remove the restaurant from your list by clicking the delete button
 *  Search: there's a search bar at the home page for you to search the specific restaurants by keyword or location
-*  Sort: sort the restaurant list in ascending or descending order by name
-*  Filter: filter the restaurant list by category or rating
+*  Sort: sort the restaurant list in ascending or descending order by name or rating
+*  Filter: filter the restaurant list by category and rating
 
 ## Installation and Execution
 1.  Clone the files to your computer
